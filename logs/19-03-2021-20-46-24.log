@@ -1,0 +1,36 @@
+leeksLazyLogger v1.1.9 by Eartharoid (github.com/eartharoid/leeksLazyLogger) | Log File (19/03/21 20:46:24) -->
+[20:46:24 | INFO] Starting up...
+[20:46:24 | INFO] Empezando a iniciar el bot.
+[20:46:24 | INFO] > Cargando '!accept-suggestion'
+[20:46:24 | INFO] > Cargando '!add'
+[20:46:24 | INFO] > Cargando '!close'
+[20:46:24 | INFO] > Cargando '!delete'
+[20:46:24 | INFO] > Cargando '!deny-suggestion'
+[20:46:24 | INFO] > Cargando '!dm'
+[20:46:24 | INFO] > Cargando '!fixed'
+[20:46:24 | INFO] > Cargando '!gcreate'
+[20:46:24 | INFO] > Cargando '!gdelete'
+[20:46:24 | INFO] > Cargando '!gedit'
+[20:46:24 | INFO] > Cargando '!gend'
+[20:46:24 | INFO] > Cargando '!glist'
+[20:46:24 | INFO] > Cargando '!greroll'
+[20:46:24 | INFO] > Cargando '!pending-suggestion'
+[20:46:24 | INFO] > Cargando '!remove'
+[20:46:24 | INFO] > Cargando '!rename'
+[20:46:24 | INFO] > Cargando '!suggest'
+[20:46:24 | INFO] > Cargando '!timer'
+[20:46:25 | INFO] > Cargando '!topic'
+[20:46:25 | INFO] > Cargando '!transcript'
+[20:46:25 | INFO] > Cargando '!update'
+[20:46:25 | INFO] Conectado
+[20:46:25 | INFO] Logeado en HCSyrix | Tickets#2110
+[20:46:25 | INFO] Checking permissions...
+[20:46:26 | INFO] Required permissions have been granted
+
+
+[20:46:26 | WARN] An error was not caught
+[20:46:26 | ERROR] Uncaught error: 
+DiscordAPIError: Unknown Emoji
+    at RequestHandler.execute (C:\Users\ramiz\Desktop\HCSyrix Development\node_modules\discord.js\src\rest\RequestHandler.js:154:13)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async RequestHandler.push (C:\Users\ramiz\Desktop\HCSyrix Development\node_modules\discord.js\src\rest\RequestHandler.js:39:14)

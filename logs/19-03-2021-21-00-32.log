@@ -1,0 +1,32 @@
+leeksLazyLogger v1.1.9 by Eartharoid (github.com/eartharoid/leeksLazyLogger) | Log File (19/03/21 21:00:32) -->
+[21:00:32 | INFO] Starting up...
+[21:00:32 | INFO] Empezando a iniciar el bot.
+[21:00:32 | INFO] > Cargando '!accept-suggestion'
+[21:00:32 | INFO] > Cargando '!add'
+[21:00:32 | INFO] > Cargando '!close'
+[21:00:32 | INFO] > Cargando '!delete'
+[21:00:32 | INFO] > Cargando '!deny-suggestion'
+[21:00:32 | INFO] > Cargando '!dm'
+[21:00:32 | INFO] > Cargando '!fixed'
+[21:00:32 | INFO] > Cargando '!gcreate'
+[21:00:32 | INFO] > Cargando '!gdelete'
+[21:00:32 | INFO] > Cargando '!gedit'
+[21:00:32 | INFO] > Cargando '!gend'
+[21:00:32 | INFO] > Cargando '!glist'
+[21:00:32 | INFO] > Cargando '!greroll'
+[21:00:32 | INFO] > Cargando '!pending-suggestion'
+[21:00:32 | INFO] > Cargando '!remove'
+[21:00:32 | INFO] > Cargando '!rename'
+[21:00:32 | INFO] > Cargando '!suggest'
+[21:00:32 | INFO] > Cargando '!timer'
+[21:00:32 | INFO] > Cargando '!topic'
+[21:00:32 | INFO] > Cargando '!transcript'
+[21:00:33 | INFO] > Cargando '!update'
+[21:00:33 | INFO] Conectado
+[21:00:33 | INFO] Logeado en HCSyrix | Tickets#2110
+[21:00:33 | INFO] Checking permissions...
+[21:00:34 | INFO] Required permissions have been granted
+
+
+[21:00:41 | INFO] Thewsomeestgamer#2206 used the 'close' command
+[21:00:41 | INFO] Thewsomeestgamer#2206 closed a ticket (#ticket-buy-thewsomeestgamer)

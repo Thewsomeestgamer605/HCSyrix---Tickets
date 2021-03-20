@@ -1,0 +1,30 @@
+leeksLazyLogger v1.1.9 by Eartharoid (github.com/eartharoid/leeksLazyLogger) | Log File (19/03/21 20:48:38) -->
+[20:48:38 | INFO] Starting up...
+[20:48:38 | INFO] Empezando a iniciar el bot.
+[20:48:38 | INFO] > Cargando '!accept-suggestion'
+[20:48:38 | INFO] > Cargando '!add'
+[20:48:38 | INFO] > Cargando '!close'
+[20:48:38 | INFO] > Cargando '!delete'
+[20:48:38 | INFO] > Cargando '!deny-suggestion'
+[20:48:39 | INFO] > Cargando '!dm'
+[20:48:39 | INFO] > Cargando '!fixed'
+[20:48:39 | INFO] > Cargando '!gcreate'
+[20:48:39 | INFO] > Cargando '!gdelete'
+[20:48:39 | INFO] > Cargando '!gedit'
+[20:48:39 | INFO] > Cargando '!gend'
+[20:48:39 | INFO] > Cargando '!glist'
+[20:48:39 | INFO] > Cargando '!greroll'
+[20:48:39 | INFO] > Cargando '!pending-suggestion'
+[20:48:39 | INFO] > Cargando '!remove'
+[20:48:39 | INFO] > Cargando '!rename'
+[20:48:39 | INFO] > Cargando '!suggest'
+[20:48:39 | INFO] > Cargando '!timer'
+[20:48:39 | INFO] > Cargando '!topic'
+[20:48:39 | INFO] > Cargando '!transcript'
+[20:48:39 | INFO] > Cargando '!update'
+[20:48:39 | INFO] Conectado
+[20:48:39 | INFO] Logeado en HCSyrix | Tickets#2110
+[20:48:39 | INFO] Checking permissions...
+[20:48:40 | INFO] Required permissions have been granted
+
+
